@@ -7,4 +7,5 @@ To learn different techniques to encode the categorical features to numeric quan
 * Encoding labels
 * One-Hot encoding
 
+This Python file requires auto.csv dataset which is uploaded.
 By Rosy Samanta
